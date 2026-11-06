@@ -50,7 +50,8 @@ streamlit run app.py
 - `requirements.txt`: dependencies
 
 ## Screenshot
-*(Add a screenshot of the app here: `![App](screenshot.png)`)*
+<img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/72cde576-2897-4475-acae-aad3ef83a561" />
+
 
 ## Author
 Hyder, B.E. CSE (AI/ML), Sapthagiri NPS University
